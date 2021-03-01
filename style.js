@@ -3,14 +3,14 @@ import {StyleSheet} from 'react-native'
 export default StyleSheet.create({
 
     container: {
-        flex: 11,
+        flex:12,
         backgroundColor: '#fff',
         alignItems: 'center',
         justifyContent: 'center',
     },
     containerWelcome:{
         backgroundColor: '#534f9c',
-        flex: 1,
+        flex: 2,
         alignItems: 'center',
         justifyContent: 'flex-end',
         paddingBottom: 20,
