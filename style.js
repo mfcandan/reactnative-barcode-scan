@@ -9,7 +9,7 @@ export default StyleSheet.create({
         justifyContent: 'center',
     },
     containerWelcome:{
-        backgroundColor: 'blue',
+        backgroundColor: '#534f9c',
         flex: 1,
         alignItems: 'center',
         justifyContent: 'flex-end',
