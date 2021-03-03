@@ -6,7 +6,7 @@ import { TouchableOpacity, Text, View, } from 'react-native';
 export default function App() {
   const [count, setCount] = useState(0)
 
-  onPress = () => {
+  const onPress = () => {
     setCount(count+1);
   };
 
